@@ -1,0 +1,35 @@
+body{
+    background-size:cover;
+}
+.heading{
+    font-size: 20px;
+    margin: 0px;
+    width: 100%;
+}
+.note{
+    font-size:16px;
+    color:gold;
+}
+
+#song{
+    font-size: 18px;
+    margin: 15px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom:0;
+    width:100%;
+    background-color: blue;
+    color:aliceblue;
+    text-align: center;
+    line-height: 3;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+canvas{
+    border:2px solid white;
+    margin-top: 80px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+}
